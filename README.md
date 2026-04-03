@@ -94,6 +94,6 @@ Shark Reader está diseñado para ser "Plug & Play" (Conectar y usar). Sin insta
 ---
 
 <div align="center">
-  <b>Creado con pasión y muchísimas líneas de código por Yerlin David Bonilla Aracena.</b><br>
+  <b>Creado con pasión y muchísimas líneas de código por David Bonilla Aracena.</b><br>
   <i>Si Shark Reader te ha ayudado a retomar el hábito de la lectura o a estudiar mejor, ¡no dudes en darle una ⭐ a este repositorio!</i>
 </div>
