@@ -23,18 +23,19 @@ Construido con tecnología web moderna empaquetada para escritorio, Shark Reader
 ## 📸 Interfaz y Experiencia (Screenshots)
 
 * *Vista de la Biblioteca y Colecciones*
-* <img width="1915" height="991" alt="image" src="https://github.com/user-attachments/assets/c122eb4f-60ce-4784-a49e-ab1be33e4036" />
+  <img width="1915" height="991" alt="image" src="https://github.com/user-attachments/assets/c122eb4f-60ce-4784-a49e-ab1be33e4036" />
 
 * *Modo Lectura Inmersivo (Fullscreen Dock)*
-* <img width="1919" height="999" alt="image" src="https://github.com/user-attachments/assets/b41d6892-f332-4a5f-b9c9-d62a1f621400" />
-* <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/efae9516-448c-4557-99b4-13b4ff047c22" />
+  <img width="1919" height="999" alt="image" src="https://github.com/user-attachments/assets/b41d6892-f332-4a5f-b9c9-d62a1f621400" />
+  <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/4638c9b5-1f07-45d5-a26d-47f278c516a9" />
+
 
 * *Panel de Gamificación y Racha*
-* <img width="401" height="419" alt="image" src="https://github.com/user-attachments/assets/2e8c9df6-74f3-44cf-bf99-82414fe43280" />
+ <img width="401" height="419" alt="image" src="https://github.com/user-attachments/assets/2e8c9df6-74f3-44cf-bf99-82414fe43280" />
 
 * *El "Book Hub" (Editor de Metadatos)*
-* <img width="878" height="588" alt="image" src="https://github.com/user-attachments/assets/e98657cd-7666-4121-848f-9a38f6568d46" />
-* <img width="484" height="693" alt="image" src="https://github.com/user-attachments/assets/5ce46894-5aff-4b0d-8244-0da8af560bb6" />
+ <img width="878" height="588" alt="image" src="https://github.com/user-attachments/assets/e98657cd-7666-4121-848f-9a38f6568d46" />
+ <img width="484" height="693" alt="image" src="https://github.com/user-attachments/assets/5ce46894-5aff-4b0d-8244-0da8af560bb6" />
 
 ---
 
