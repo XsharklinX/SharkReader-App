@@ -77,7 +77,7 @@ No dependas de la nube. Exporta una **Copia de Seguridad (.json)** con todo tu p
 
 Shark Reader está diseñado para ser "Plug & Play" (Conectar y usar). Sin instaladores molestos.
 
-1. Ve a la sección de **[Releases](https://github.com/TU-USUARIO/SharkReader/releases)** a la derecha de esta página.
+1. Ve a la sección de **[Releases]([https://github.com/TU-USUARIO/SharkReader/releases](https://github.com/XsharklinX/SharkReader-App/releases/tag/2.0))** a la derecha de esta página.
 2. Descarga la versión más reciente: `SharkReader-Portable-v3.0.exe`.
 3. Colócalo en la carpeta que prefieras y hazle doble clic. ¡Listo!
 4. *(Opcional)* Crea un acceso directo en tu escritorio para tenerlo siempre a mano.
