@@ -4,7 +4,7 @@
   <h1>SharkReader🦈</h1>
   <p><b>Tu ecosistema de lectura digital definitivo. Un lector de EPUB y PDF moderno, inmersivo, gamificado y 100% gratuito para Windows.</b></p>
   
-  [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#-descarga-e-instalación)
+ [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/XsharklinX/SharkReader-App/releases/download/2.0/SharkReader-Portable-v2.0.exe)
   [![Versión](https://img.shields.io/badge/Versi%C3%B3n-3.0.0-success?style=for-the-badge)](#)
   [![Precio](https://img.shields.io/badge/Precio-100%25_Gratis-brightgreen?style=for-the-badge)](#)
   [![Privacidad](https://img.shields.io/badge/Privacidad-Local_Offline-blueviolet?style=for-the-badge)](#)
