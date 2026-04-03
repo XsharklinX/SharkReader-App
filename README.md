@@ -13,7 +13,7 @@
 
 ## 📖 ¿Qué es Shark Reader?
 
-**Shark Reader** es una aplicación de escritorio diseñada meticulosamente para los amantes de la lectura que buscan una experiencia premium en su PC. Olvídate de los visores web lentos, de interfaces saturadas o de perder la página por donde ibas.
+Es una aplicación de escritorio diseñada meticulosamente para los amantes de la lectura que buscan una experiencia premium en su PC. Olvídate de los visores web lentos, de interfaces saturadas o de perder la página por donde ibas.
 
 Construido para ser **100% local y privado**, Shark Reader no requiere cuentas en servidores de terceros ni conexión a internet obligatoria. Tus libros, tus notas y tus estadísticas viven en tu computadora.
 
