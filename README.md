@@ -1,11 +1,11 @@
 <div align="center">
   
   <img width="257" height="265" alt="icon" src="https://github.com/user-attachments/assets/899422d0-1f35-45a6-ab39-fd63c390165b" />
-  <h1>🦈 Shark Reader 3.0 (Elite Edition)</h1>
+  <h1>🦈 Shark Reader 2.0 (</h1>
   <p><b>Tu ecosistema de lectura digital personal. Un lector de EPUB y PDF moderno, inmersivo y gamificado para Windows.</b></p>
   
   [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#-descarga-e-instalación)
-  [![Versión](https://img.shields.io/badge/Versi%C3%B3n-3.0.0-success?style=for-the-badge)](#)
+  [![Versión](https://img.shields.io/badge/Versi%C3%B3n-2.0-success?style=for-the-badge)](#)
   [![Licencia](https://img.shields.io/badge/Licencia-MIT-blue?style=for-the-badge)](#)
 </div>
 
