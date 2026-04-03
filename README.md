@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="./assets/icon.png" alt="Shark Reader Logo" width="120" />
+ <img width="257" height="265" alt="icon" src="https://github.com/user-attachments/assets/85fee410-dcee-4702-9eed-f0074f40bd0d" />
   
-  <h1>🦈 Shark Reader (Elite Edition)</h1>
+  <h1>SharkReader🦈</h1>
   <p><b>Tu ecosistema de lectura digital definitivo. Un lector de EPUB y PDF moderno, inmersivo, gamificado y 100% gratuito para Windows.</b></p>
   
   [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#-descarga-e-instalación)
