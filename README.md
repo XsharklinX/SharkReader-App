@@ -1,64 +1,91 @@
 <div align="center">
+  <img src="./assets/icon.png" alt="Shark Reader Logo" width="120" />
   
-  <img width="257" height="265" alt="icon" src="https://github.com/user-attachments/assets/899422d0-1f35-45a6-ab39-fd63c390165b" />
-  <h1>🦈 Shark Reader 2.0 </h1>
-  <p><b>Tu ecosistema de lectura digital personal. Un lector de EPUB y PDF moderno, inmersivo y gamificado para Windows.</b></p>
+  <h1>🦈 Shark Reader (Elite Edition)</h1>
+  <p><b>Tu ecosistema de lectura digital definitivo. Un lector de EPUB y PDF moderno, inmersivo, gamificado y 100% gratuito para Windows.</b></p>
   
   [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#-descarga-e-instalación)
-  [![Versión](https://img.shields.io/badge/Versi%C3%B3n-2.0-success?style=for-the-badge)](#)
-  [![Licencia](https://img.shields.io/badge/Licencia-MIT-blue?style=for-the-badge)](#)
+  [![Versión](https://img.shields.io/badge/Versi%C3%B3n-3.0.0-success?style=for-the-badge)](#)
+  [![Precio](https://img.shields.io/badge/Precio-100%25_Gratis-brightgreen?style=for-the-badge)](#)
+  [![Privacidad](https://img.shields.io/badge/Privacidad-Local_Offline-blueviolet?style=for-the-badge)](#)
 </div>
 
 <br/>
 
 ## 📖 ¿Qué es Shark Reader?
 
-Es una aplicación de escritorio diseñada meticulosamente para los amantes de la lectura que buscan una experiencia premium en su PC. Olvídate de los visores web lentos, de interfaces saturadas o de perder la página por donde ibas.
+**Shark Reader** es más que un simple visor de documentos; es una aplicación de escritorio diseñada meticulosamente para transformar el hábito de la lectura en una experiencia premium. Olvídate de las aplicaciones anticuadas, las suscripciones mensuales o la pérdida de tus datos. 
 
-Construido para ser **100% local y privado**, Shark Reader no requiere cuentas en servidores de terceros ni conexión a internet obligatoria. Tus libros, tus notas y tus estadísticas viven en tu computadora.
+Construido con tecnología web moderna empaquetada para escritorio, Shark Reader te ofrece herramientas de estudio, gamificación y una interfaz inmersiva totalmente **gratis y offline**. Tus libros, tus notas y tu privacidad te pertenecen.
+
+---
+
+## 📸 Interfaz y Experiencia (Screenshots)
+
+> **💡 Nota:** *[AQUÍ AÑADIRÁS TUS IMÁGENES. En GitHub, solo arrastra tus capturas de pantalla debajo de estas líneas]*
+
+* *Vista de la Biblioteca y Colecciones*
+* *Modo Lectura Inmersivo (Fullscreen Dock)*
+* *Panel de Gamificación y Racha*
+* *El "Book Hub" (Editor de Metadatos)*
+
+---
 
 ## ✨ Características Principales
 
-### 🔥 Gamificación y Estadísticas
-- **Racha de Lectura (Streak):** Lee al menos 5 minutos al día para encender tu racha. El sistema incluye un calendario de 7 días.
-- **Salvadores de Racha:** ¿No pudiste leer hoy? Por cada 5 días de racha ganas un "Salvador" que evitará que tu contador vuelva a cero.
-- **Niveles y Estadísticas:** Registra tus minutos totales de lectura, páginas pasadas y sube de "Nivel de Lector".
-- **Perfiles Locales:** Configura tu nombre y avatar (imagen propia o un simpático emoji aleatorio).
+### 🔥 Gamificación y Hábito de Lectura
+- **Racha Activa (Reading Streak):** El sistema detecta tu constancia. Lee al menos 5 minutos diarios para mantener tu racha viva y subir de "Nivel de Lector".
+- **Calendario Visual:** Consulta tu progreso de los últimos 7 días con un diseño interactivo.
+- **Salvadores de Racha:** Premia tu esfuerzo. Por cada 5 días consecutivos leyendo, ganas 1 "Salvador" (máximo 2). Si un día no puedes leer, el sistema usará un Salvador automáticamente para proteger tu progreso.
+- **Perfiles de Usuario:** Crea tu identidad local con un nombre y un avatar (foto personalizada o un emoji marino aleatorio 🎲).
 
-### 📚 El "Book Hub" (Gestión Avanzada)
-- **Organización Total:** Crea tus propias colecciones/categorías de forma libre y filtra tu biblioteca al instante.
-- **Buscador en Tiempo Real:** Encuentra libros al vuelo por título o autor.
-- **Edición de Metadatos:** ¿Un libro vino con el título mal o sin portada? Edita el título, autor, sinopsis, etiquetas y URL de portada con un solo clic.
+### 📚 "Book Hub" y Gestión de Biblioteca
+- **Organización Libre:** Adiós a las carpetas rígidas. Crea, edita y elimina tus propias "Colecciones" o etiquetas al vuelo.
+- **Edición de Metadatos In-App:** Haz clic en cualquier libro para abrir el *Book Hub*. Modifica el título, autor, añade una URL de portada, editorial y escribe tu propia sinopsis.
+- **Buscador Dinámico:** Filtra tu biblioteca en tiempo real por título o autor.
+- **Progreso a Prueba de Fallos:** Motor de rastreo instantáneo que recuerda tu página exacta y porcentaje sin consumir recursos de tu PC.
 
 ### 📖 Experiencia de Lectura Inmersiva
-- **UI de Cristal (Dock Mode):** Al entrar en pantalla completa, la interfaz rígida desaparece a favor de un "Dock" inferior flotante estilo cristal (`backdrop-blur`).
-- **Progreso a Prueba de Fallos:** Motor de rastreo instantáneo (0% de consumo de CPU) basado en capítulos. Nunca perderás tu página.
-- **Diccionario Integrado:** Selecciona una palabra mientras lees y obtén su definición al instante en un popup flotante.
-- **Subrayador y Notas:** Usa la herramienta de "Highlighter" para pintar textos de amarillo brillante. Todo se guarda en tu panel de anotaciones y es exportable a `.txt`.
-- **Accesibilidad:** Soporte integrado para la tipografía **OpenDyslexic**, además de modos Claro, Oscuro y Sepia. Rueda del ratón universal para pasar de página cómodamente.
+- **UI Adaptativa:** En modo ventana, disfruta de una barra superior de cristal elegante. Al entrar en Pantalla Completa, la interfaz desaparece y se convierte en un **"Dock" flotante estilo macOS** en la parte inferior para una inmersión total.
+- **Scroll Universal Perfecto:** Deslízate entre páginas girando la rueda de tu ratón sin importar dónde esté el cursor.
+- **Accesibilidad Total:** Modos Claro, Oscuro y Sepia. Tipografías Sans, Serif y **OpenDyslexic** integrada, con ajuste de tamaño y control de brillo independiente.
+- **Modo Continuo o Paginado:** Elige entre leer pasando páginas (1 o 2 a la vez) o hacer scroll infinito como en una página web.
 
-### 💾 Control Total de tus Datos
-- **Exportación e Importación de Backups:** Con un solo clic, exporta un archivo `.json` con absolutamente todos tus datos (racha, minutos, progreso de cada libro, notas y categorías) para llevarlo a otra PC.
+### 🖍️ Herramientas de Estudio Avanzadas
+- **Subrayador Nativo (Highlighter):** Marca textos importantes en amarillo brillante con un solo clic.
+- **Diccionario al Vuelo:** Selecciona cualquier palabra en el libro y obtén su definición al instante en un globo flotante (Soporte multilingüe).
+- **Exportación de Notas:** Todas tus anotaciones y textos subrayados pueden exportarse a un archivo `.txt` estructurado para tus estudios.
 
-## 📥 Descarga e Instalación (Plug & Play)
+### 🌍 Multilenguaje Global
+La interfaz está traducida y se adapta con un clic a los idiomas más populares:
+🇺🇸 **Inglés** | 🇪🇸 **Español** | 🇨🇳 **Chino**
 
-Shark Reader es completamente portátil. No requiere instalaciones complejas en el sistema operativo.
+### 💾 Control Total de Tus Datos
+No dependas de la nube. Exporta una **Copia de Seguridad (.json)** con todo tu perfil, estadísticas, rachas, categorías, marcadores y el progreso de todos tus libros. Importa ese archivo en cualquier otra PC y continúa exactamente donde lo dejaste.
 
-1. Ve a la sección de **[Releases (Lanzamientos)](https://github.com/TU-USUARIO/SharkReader/releases)** a la derecha de esta página.
-2. Descarga la versión más reciente (`SharkReader-Windows.zip`).
-3. Extrae el contenido en cualquier carpeta de tu computadora.
-4. Haz doble clic en el archivo `SharkReader.exe`.
-5. Crea tu perfil local, añade tus EPUBs/PDFs y comienza a construir tu hábito de lectura.
+---
 
-## 🖱️ Atajos de Teclado Rápidos
+## 📥 Descarga e Instalación (Portable)
 
-- `Flecha Derecha` / `Rueda del ratón abajo`: Siguiente página.
-- `Flecha Izquierda` / `Rueda del ratón arriba`: Página anterior.
-- `F11`: Entrar / Salir de pantalla completa.
+Shark Reader está diseñado para ser "Plug & Play" (Conectar y usar). Sin instaladores molestos.
+
+1. Ve a la sección de **[Releases](https://github.com/TU-USUARIO/SharkReader/releases)** a la derecha de esta página.
+2. Descarga la versión más reciente: `SharkReader-Portable-v3.0.exe`.
+3. Colócalo en la carpeta que prefieras y hazle doble clic. ¡Listo!
+4. *(Opcional)* Crea un acceso directo en tu escritorio para tenerlo siempre a mano.
+
+---
+
+## 💻 Desarrollado Con
+
+- **React.js & Babel:** Para una interfaz reactiva y estado complejo.
+- **Tailwind CSS:** Diseño moderno, responsivo y animaciones fluidas ("Juicy UI").
+- **ePub.js:** El motor robusto detrás del renderizado de libros.
+- **Electron Builder:** Empaquetado como una aplicación nativa de Windows en un único archivo ejecutable.
 
 ---
 
 <div align="center">
-  <b>Desarrollado con dedicación por Yerlin David Bonilla Aracena.</b><br>
-  <i>Si Shark Reader te ha ayudado a leer más, considera darle una ⭐ al repositorio.</i>
+  <b>Creado con pasión y muchísimas líneas de código por Yerlin David Bonilla Aracena.</b><br>
+  <i>Si Shark Reader te ha ayudado a retomar el hábito de la lectura o a estudiar mejor, ¡no dudes en darle una ⭐ a este repositorio!</i>
 </div>
