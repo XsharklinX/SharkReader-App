@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="./assets/icon.png" alt="Shark Reader Logo" width="120" />
+  
+  <img width="257" height="265" alt="icon" src="https://github.com/user-attachments/assets/899422d0-1f35-45a6-ab39-fd63c390165b" />
   <h1>🦈 Shark Reader 3.0 (Elite Edition)</h1>
   <p><b>Tu ecosistema de lectura digital personal. Un lector de EPUB y PDF moderno, inmersivo y gamificado para Windows.</b></p>
   
