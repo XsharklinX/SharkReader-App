@@ -129,11 +129,15 @@ Examples include:
 
 ## Screenshots
 
-> Add real screenshots before publishing the public repository.
-
 ```txt
-docs/screenshots/library.png
-docs/screenshots/reader-epub.png
-docs/screenshots/reader-pdf.png
-docs/screenshots/analytics.png
-docs/screenshots/settings.png
+<img width="1919" height="1027" alt="image" src="https://github.com/user-attachments/assets/e1615bb8-04c5-494c-b722-190325f1fd17" />
+<img width="1919" height="1009" alt="image" src="https://github.com/user-attachments/assets/acb97f3a-2837-4080-91de-1a8ed20c36e6" />
+<img width="540" height="909" alt="image" src="https://github.com/user-attachments/assets/59ea79c3-9192-41f4-bcdc-22e1da393d3b" />
+<img width="842" height="960" alt="image" src="https://github.com/user-attachments/assets/97939277-eaa9-4c66-b852-bae1f5c5fe84" />
+<img width="381" height="794" alt="image" src="https://github.com/user-attachments/assets/22c76e0d-3dcc-48a3-80ad-5a272d2673a9" />
+<img width="288" height="612" alt="image" src="https://github.com/user-attachments/assets/6ccbbb0f-b3d2-42fd-a1d1-ab5216587063" />
+<img width="665" height="642" alt="image" src="https://github.com/user-attachments/assets/3d478843-64fd-4345-aa26-0c577ada1ac6" />
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/fb0b9a07-8dd6-4477-9fe2-1e1c205c169e" />
+<img width="1885" height="443" alt="image" src="https://github.com/user-attachments/assets/cfa5d78f-4693-46d0-819d-7ffa1c9443db" />
+
+
