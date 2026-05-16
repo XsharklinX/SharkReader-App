@@ -1,7 +1,7 @@
 # SharkReader
 
 <p align="center">
-  <img src="./icon.png" alt="SharkReader logo" width="120" />
+ <img width="257" height="265" alt="icon" src="https://github.com/user-attachments/assets/df961daf-6e57-443c-9d71-303c2fa24a1a" />
 </p>
 
 <p align="center">
