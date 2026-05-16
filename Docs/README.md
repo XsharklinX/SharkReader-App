@@ -128,8 +128,6 @@ Examples include:
 ---
 
 ## Screenshots
-
-```txt
 <img width="1919" height="1027" alt="image" src="https://github.com/user-attachments/assets/e1615bb8-04c5-494c-b722-190325f1fd17" />
 <img width="1919" height="1009" alt="image" src="https://github.com/user-attachments/assets/acb97f3a-2837-4080-91de-1a8ed20c36e6" />
 <img width="540" height="909" alt="image" src="https://github.com/user-attachments/assets/59ea79c3-9192-41f4-bcdc-22e1da393d3b" />
